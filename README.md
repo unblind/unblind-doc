@@ -26,8 +26,13 @@ El proyecto se ha realizado teniendo en mente que las gafas deben ser baratas. E
 
 ## Tecnologías utilizadas
 
-La solución está desarrollada utilizando software libre.
+La solución está desarrollada utilizando algunas piezas de software libre.
 
-* Jasper
+* Jasper, modificado para recibir nuevos comandos de voz (tomar foto, reportar incidencia).
+* Festival, para la conversión de texto a voz.
+* Raspbian Jessie, el sistema operativo para la Raspberry Pi
 
-Y servicios online como wit.ai, Microsoft Oxford y Google Vision API.
+Y servicios online como:
+* wit.ai, para la conversión de voz a texto y cálculo de la intención del usuario
+* Microsoft Oxford para reconocimiento y análisis de caras
+* Google Vision API para identificar escenas, marcas, etc.

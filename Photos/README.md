@@ -1,5 +1,5 @@
 # MyEyes Photos
 
-[MyEyes1](MyEyes1.jpg)
+![MyEyes1](MyEyes1.jpg)
 
-[MyEyes2](MyEyes2.jpg)
+![MyEyes2](MyEyes2.jpg)

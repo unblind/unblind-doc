@@ -43,3 +43,8 @@ Además hemos utilizado servicios online como:
 * [Microsoft Oxford](https://www.projectoxford.ai/) para reconocimiento y análisis de caras
 * [Google Cloud Vision API](https://cloud.google.com/vision/) para identificar escenas, marcas, etc.
 * [Firebase](https://www.firebaseio.com/) como base de datos para almacenar información.
+
+## Más información
+
+* [Video promocional](https://vimeo.com/156887939) en vimeo (1 min)
+* [Video corto idea + demo] en vimeo (https://vimeo.com/156949884) (2 min)

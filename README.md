@@ -2,7 +2,7 @@
 
 Cierra los ojos. Imagina tenerlos cerrados una hora, un día, un año... hay cerca de 40 millones de personas ciegas en el mundo, y alrededor de 300 millones con algún tipo de discapacidad visual. My Eyes les permite volver a abrir los ojos. 
 
-El proyecto consiste en unas **gafas impresas en 3D con una cámara HD integrada**. La cámara está conectada a una Raspberry Pi, que el invidente lleva en la cintura. Se puede interactuar con las gafas mediante **comandos de voz**, para recibir distintos tipos de ayuda:
+El proyecto consiste en unas **gafas impresas en 3D con una cámara HD integrada**. La cámara está conectada a una Raspberry Pi, que el invidente lleva en la cintura. Se puede interactuar con las gafas mediante **comandos de voz**, para recibir distintos tipos de ayuda (ver [video con demo](https://vimeo.com/156949884)):
 
 - Identificar y describir qué **personas** tienes delante (Ejemplo: "tienes delante a 2 personas de unos 25 años que tienen barba")
 - Identificar **productos y marcas** (Ejemplo: "tienes en la mano un producto de la marca Coca Cola")

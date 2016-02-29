@@ -4,21 +4,21 @@ Cierra los ojos. Imagina tenerlos cerrados una hora, un día, un año... hay cer
 
 El proyecto consiste en unas **gafas impresas en 3D con una cámara HD integrada**. La cámara está conectada a una Raspberry Pi, que el invidente lleva en la cintura. Se puede interactuar con las gafas mediante **comandos de voz**, para recibir distintos tipos de ayuda (ver [video con demo](https://vimeo.com/156949884)):
 
-- Identificar y describir qué **personas** tienes delante (Ejemplo: "tienes delante a 2 personas de unos 25 años que tienen barba")
+- Identificar y describir qué **personas** tienes delante, incluyendo su apariencia, sexo y estado de ánimo (Ejemplo: "tienes delante a 2 personas de unos 25 años que tienen barba, uno de ellos está sonriendo")
 - Identificar **productos y marcas** (Ejemplo: "tienes en la mano un producto de la marca Coca Cola")
-- Leer **textos** escritos.
+- Leer **textos** escritos (Ejemplo: el menú del día de un restaurante).
 
 <center><img src="myeyes.jpg" align="center" height="400"></center>
 
 Además, permite reportar incidencias en la vía, para generar una base de datos abierta que ayude tanto a las administraciones, como a otras personas con dificultades, a encontrar mejores rutas.
 
-El proyecto se ha realizado teniendo en mente que las gafas deben ser baratas. El coste completo de las gafas, la cámara HD, una Raspberry Pi y los conectores es inferior a los 50 euros. Tanto el software como los modelos 3D de todos los componentes están disponibles públicamente para que cualquiera pueda reproducirlas con facilidad.
+El proyecto se ha realizado teniendo en mente que las gafas deben ser baratas. El coste completo de las gafas, la cámara HD, una Raspberry Pi y los conectores es **inferior a los 50 euros**. Tanto el software como los modelos 3D de todos los componentes están disponibles públicamente para que cualquiera pueda reproducirlas con facilidad.
 
 ## Equipo
 
 * **Juan**: Ingeniero de teleco, maestro del soldador y especialista en electrónica.
 * **Cristian**: Ingeniero en informática y experto en desarrollo web y dispositivos móviles.
-* **Guido**: Licenciado en investigación de mercados e ingeniero de telecomunicación, experto en cloud computing y desarrollo backend ([@palmerabollo](http://twitter.com/palmerabollo)).
+* **Guido**: Licenciado en investigación de mercados e ingeniero de telecomunicación, experto en servicios cloud y desarrollo backend ([@palmerabollo](http://twitter.com/palmerabollo)).
 
 ## Arquitectura
 
